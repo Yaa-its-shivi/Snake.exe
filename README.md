@@ -37,3 +37,55 @@ g++ snake.cpp -o snake.exe
 ./snake.exe
 
 ---
+
+🐢 Difficulty Settings
+Choose your level when prompted:
+
+1 → Easy (slow)
+
+2 → Medium (default)
+
+3 → Hard (fast)
+
+---
+
+💡 Customization Ideas
+Add sound effects using Beep()
+
+Support arrow keys or multiplayer
+
+Port to Linux with ncurses
+
+Save high scores to a file
+
+---
+
+📸 Preview
+
+==============================
+|                            |
+|         @                 *|
+|                            |
+|                            |
+==============================
+Player: Shivam | Score: 30
+
+---
+
+📁 Files
+File	Description
+snake.cpp	Main game source code
+README.md	This readme file
+
+---
+
+🤝 Credits
+Developed by Shivam Mittal
+Special thanks to classic games and community inspirations!
+
+---
+
+📜 License
+This project is open-source and free to use for learning and fun. You’re welcome to modify, distribute, or enhance it.
+
+---
