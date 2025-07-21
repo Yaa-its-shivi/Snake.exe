@@ -44,7 +44,7 @@ Choose your level when prompted:
 
 ---
 
-###💡 Customization Ideas
+### 💡 Customization Ideas
 Add sound effects using Beep()
 
 Support arrow keys or multiplayer
@@ -55,7 +55,7 @@ Save high scores to a file
 
 ---
 
-###📸 Preview
+### 📸 Preview
 
 ==============================
 |                            |
@@ -67,20 +67,20 @@ Player: Shivam | Score: 30
 
 ---
 
-###📁 Files
+### 📁 Files
 File	Description
 snake.cpp	Main game source code
 README.md	This readme file
 
 ---
 
-###🤝 Credits
+### 🤝 Credits
 Developed by Shivam Mittal
 Special thanks to classic games and community inspirations!
 
 ---
 
-📜 License
+### 📜 License
 This project is open-source and free to use for learning and fun. You’re welcome to modify, distribute, or enhance it.
 
 ---
