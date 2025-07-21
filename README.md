@@ -55,18 +55,6 @@ Save high scores to a file
 
 ---
 
-### 📸 Preview
-
-==============================
-|                            |
-|         @                 *|
-|                            |
-|                            |
-==============================
-Player: Shivam | Score: 30
-
----
-
 ### 📁 Files
 File	Description
 snake.cpp	Main game source code
